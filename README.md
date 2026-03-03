@@ -29,6 +29,6 @@ at Digital Egypt Builders Initiative (DEBI).
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeyademam2000&show_icons=true&theme=github_dark&hide_border=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=zeyademam2000&theme=dark&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyademam2000&layout=compact&theme=github_dark&hide_border=true" />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyademam2000&theme=dark&layout=compact)
