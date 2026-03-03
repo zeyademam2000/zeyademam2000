@@ -27,8 +27,9 @@ at Digital Egypt Builders Initiative (DEBI).
 - Email: zeyade911@gmail.com
 - Phone/Whatsapp:= +201555084413
 
-## 📊 GitHub Stats
+## 🛠 Skills & Tools
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zeyademam2000&theme=dark&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyademam2000&theme=dark&layout=compact)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
