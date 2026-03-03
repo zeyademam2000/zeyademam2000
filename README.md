@@ -26,3 +26,8 @@ at Digital Egypt Builders Initiative (DEBI).
 - LinkedIn: [linkedin.com/in/zeyad-emam](https://linkedin.com/in/zeyad-emam)
 - Email: zeyade911@gmail.com
 - Phone/Whatsapp:= +201555084413
+
+## 📊 GitHub Stats
+![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyademam2000&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyademam2000&layout=compact&theme=github_dark)
